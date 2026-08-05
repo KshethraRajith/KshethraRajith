@@ -1,4 +1,7 @@
 ## Hi, I'm Kshethra✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Data+Analyst;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Generative+AI+%7C+RAG+Developer" alt="Typing SVG" />
+</p>
 
 🎓 B.Tech Graduate in Artificial Intelligence & Data Science <br/>
 💻 Aspiring AI Engineer | Data Analyst | Machine Learning Enthusiast <br/>  
