@@ -28,7 +28,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KshethraRajith&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KshethraRajith/KshethraRajith/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
