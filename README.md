@@ -8,7 +8,7 @@
 🌱 I can build AI-powered applications <br/>
 🤖 RAG Chatbots • ML Solutions • Data Dashboards
 
-## 🌐Connect with Me
+## 🌐Connect with Me!
 
 🌍 Portfolio: [kshethra-rajith-portfolio.vercel.app](https://kshethra-rajith-portfolio.vercel.app/)
 💼 LinkedIn: [Kshethra Rajith](https://www.linkedin.com/in/kshethrarajith/)
