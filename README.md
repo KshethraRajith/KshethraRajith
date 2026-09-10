@@ -12,7 +12,7 @@
 
 🌍 Portfolio: [kshethra-rajith-portfolio.vercel.app](https://kshethra-rajith-portfolio.vercel.app/)
 💼 LinkedIn: [Kshethra Rajith](https://www.linkedin.com/in/kshethrarajith/)
-📧 Email: kshethrarajith@gmail.com & venikkandvenikk999@gmail.com
+📧 Email: kshethrarajith@gmail.com
 
 
 
