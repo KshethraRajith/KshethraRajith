@@ -6,7 +6,7 @@
 🎓 B.Tech Graduate in Artificial Intelligence & Data Science <br/>
 💻 Aspiring AI Engineer | Data Analyst | Machine Learning Enthusiast <br/>  
 🌱 I can build AI-powered applications <br/>
-🤖 RAG Chatbots • ML Solutions • Data Dashboards
+🤖 RAG Chatbots • ML Solutions • Data Dashboard
 
 ## 🌐Connect with Me!
 
