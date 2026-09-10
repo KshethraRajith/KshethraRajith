@@ -7,7 +7,6 @@
 💻 Aspiring AI Engineer | Data Analyst | Machine Learning Enthusiast <br/>  
 🌱 I can build AI-powered applications <br/>
 🤖 RAG Chatbots • ML Solutions • Data Dashboards
-Creating AI agents for future solutions
 
 ## 🌐Connect with Me!
 
